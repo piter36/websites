@@ -32,9 +32,11 @@ Starting with wireless debugging works on Android 11 or above. This startup meth
 #### Pairing (only needs once)
 
 1. Start pairing in Shizuku<br><img :src="$withBase('/images/start_paring_from_shizuku.png')" style="max-width:320px;width:100%">
-2. [Enable Wireless debugging](#enable-wireless-debugging)
-3. Tap "Pair device with pairing code" in "Wireless debugging"<br><img :src="$withBase('/images/start_pairing.png')" style="max-width:320px;width:100%">
-4. Enter pairing code in Shizuku's notificaiton<br><img :src="$withBase('/images/enter_pairing_code.png')" style="max-width:320px;width:100%">
+2. [Enable Wireless debugging](#enable-wireless-debuggi
+3.
+4. ng)
+5. Tap "Pair device with pairing code" in "Wireless debugging"<br><img :src="$withBase('/images/start_pairing.png')" style="max-width:320px;width:100%">
+6. Enter pairing code in Shizuku's notificaiton<br><img :src="$withBase('/images/enter_pairing_code.png')" style="max-width:320px;width:100%">
 
 #### Start Shizuku
 
